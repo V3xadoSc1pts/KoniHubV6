@@ -1,4 +1,4 @@
 ID="2b86c4da-5d78-4d26-85ff-979d24e92e28";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 
-loadstring(game:HttpGet("https://pastefy.app/mlxaPdlz/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/QAPZtvHQ/raw"))()
