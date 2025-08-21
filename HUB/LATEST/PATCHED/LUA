@@ -1,4 +1,4 @@
 ID="2b86c4da-5d78-4d26-85ff-979d24e92e28";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 
-loadstring(game:HttpGet("https://pastefy.app/QAPZtvHQ/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SynergyNetworkz/TEMPORARY/refs/heads/main/load.lua?fbclid=IwY2xjawMTd2hleHRuA2FlbQIxMQABHhXoxiZak576Hm9etkWU2CMi_7MLx1Z_Rzba7yl5N_TG63Kv31Tv1xlj6hU1_aem_wmLzNnLs150kv3tmEijzPA"))()
